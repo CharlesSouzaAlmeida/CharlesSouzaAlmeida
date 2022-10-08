@@ -1,4 +1,4 @@
-### Olá! sou Charles Almeida ✋🏽
+### Olá! sou Charles Almeida🖖🏽
 
 ![Charles GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesSouzaAlmeida&show_icons=true&theme=merko)
 
